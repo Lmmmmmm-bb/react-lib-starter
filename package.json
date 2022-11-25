@@ -27,7 +27,7 @@
     }
   },
   "scripts": {
-    "dev": "pnpm style:watch && tsup --watch",
+    "dev": "pnpm style:watch & tsup --watch",
     "playground": "vite playground --host & pnpm style:watch",
     "build": "tsup",
     "build:playground": "vite build playground",

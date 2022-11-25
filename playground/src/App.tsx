@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { HelloWorld } from 'react-lib-starter';
+import { HelloWorld } from 'lm-react-lib-starter';
 import reactLogo from './assets/react.svg';
 import './App.css';
 
